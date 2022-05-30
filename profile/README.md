@@ -1,0 +1,1 @@
+![Teleportal Logo](/profile/logo.png)
